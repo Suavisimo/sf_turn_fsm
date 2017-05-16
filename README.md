@@ -1,11 +1,8 @@
 # sf_turn_statem
-A state machine for the cycle of a multiplayer turn-based game, implemented in Erlang.
+A state machine for the cycle of a multiplayer turn-based game, implemented in Erlang. (15)
 
 
 # Motivation
-#### High Level Goals
-- Build a simple and extensible Game Engine.
-- Use this engine as a basis for multiple game aesthetics
-- Use this engine as a template for generating new "systems" in a distributed fashion
-- Extensions of this engine should be used to augment existing functionality or potentially replace existing functionality
-- Leverage Erlang for its strengths in distributed systems architecture.
+
+#### Why Erlang?
+Out of the box, Erlang provides all the tools required to build a living, distributed system.  Systems built in Erlang can be composed to create suites of interchangable rules, a platform upon which to experiment with mechanics and aestetics, and emergent and unique gameplay experiences.
