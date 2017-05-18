@@ -15,3 +15,11 @@ Out of the box, Erlang provides all the tools required to build a living, distri
 
 #### Why Snowflake?
 Many times a project is abadoned in the concept phase.  Possibly due to lack of motivation, possibly due to lack of fleshing out the concept.  The attempt to use Snowflake is to at minimum provide a way to document the thought process behind the project, in hopes that worse case (abandonment), it is carried on by those who share similar views.
+
+
+# Features
+
+-|Simulate the interactions between players during a turn.
+##### Allow events to exist as "hooks" for other processes to be invoked.
+- Provides a drop-in process for Erlang game systems that want to leverage turn-based interactions between players.
+-> Builds a template to follow for using the Snowflake technique
