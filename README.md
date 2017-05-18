@@ -19,7 +19,7 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 
 # Features
 
--|Simulate the interactions between players during a turn.
-##### Allow events to exist as "hooks" for other processes to be invoked.
+- Simulates the interactions between players during a turn.
+- Allow events to exist as "hooks" for other processes to be invoked.
 - Provides a drop-in process for Erlang game systems that want to leverage turn-based interactions between players.
--> Builds a template to follow for using the Snowflake technique
+- Builds a template to follow for using the Snowflake technique
