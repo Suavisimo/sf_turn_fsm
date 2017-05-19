@@ -35,3 +35,23 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 3.  **Game Developers** - Looking for something extensible, to attach their game idea to, but without the hassle of building something from scratch.
 4.  **Developers** - Looking for a template of using the snowflake method to start their projects, and vette the use of this technique with the success of the project.
 5.  **Contributors** - Recognizing a good idea, and willing to help see it come to fruition.  Also, adding to the community by providing advice and guidance.
+
+
+# User Stories
+
+1.  As a **Coder**, I need to leverage the deployment pipeline for this process in Erlang
+  - Investigate Rebar package management
+  - Investigate ErlangVM (BEAM) deployment
+  - Build gen_statem process
+  - Deploy and Run gen_statem process
+2.  As a **Game Designer**, I need to use the Turn logic in this process to augment my game design.
+  - Implement TurnStarted
+  - Implement TurnCompleted
+  - Implement Action Window for current player
+  - Implement Action Window for non-current player
+3.  As a **Game Developer**, I need to leverage the Action Windows in this process to expose other systems to occur during the course of the phase
+  - Implement TurnAffected
+4.  As **Developer**, I need access to the documentation around the snowflake technique and how it was used to design the project.
+  - Include Snowflake documentation 
+5.  As a **Contributor** I have ample documentation for adding insight and providing guidance from a technological and use-case perspective.
+  - Add licensing to the project
