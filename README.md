@@ -31,7 +31,7 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 # Personas
 
 1.  Coders - Looking for a start into using a gen_statem behavior in erlang.
-2.  Game Developers - Looking for a simple, drop-in Game-Engine to run their turn-based game.
-3.  Game Designers - Looking for something extensible, to attach their game idea to, but without the hassle of building something from scratch.
+2.  Game Designers - Looking for a simple, drop-in Game-Engine to run their turn-based game.
+3.  Game Developers - Looking for something extensible, to attach their game idea to, but without the hassle of building something from scratch.
 4.  Developers - Looking for a template of using the snowflake method to start their projects, and vette the use of this technique with the success of the project.
 5.  Contributors - Recognizing a good idea, and willing to help see it come to fruition.  Also, adding to the community by providing advice and guidance.
