@@ -54,6 +54,6 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 3.  As a **Game Developer**, I need to leverage the Action Windows in this process to expose other systems to occur during the course of the phase
     - Implement TurnAffected
 4.  As **Developer**, I need access to the documentation around the snowflake technique and how it was used to design the project.
-    - ~~Include Snowflake documentation ~~
+    - ~~Include Snowflake documentation~~
 5.  As a **Contributor** I have ample documentation for adding insight and providing guidance from a technological and use-case perspective.
     - ~~Add licensing to the project~~
