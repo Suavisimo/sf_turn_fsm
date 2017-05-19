@@ -40,18 +40,18 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 # User Stories
 
 1.  As a **Coder**, I need to leverage the deployment pipeline for this process in Erlang
-  - Investigate Rebar package management
-  - Investigate ErlangVM (BEAM) deployment
-  - Build gen_statem process
-  - Deploy and Run gen_statem process
+    - Investigate Rebar package management
+    - Investigate ErlangVM (BEAM) deployment
+    - Build gen_statem process
+    - Deploy and Run gen_statem process
 2.  As a **Game Designer**, I need to use the Turn logic in this process to augment my game design.
-  - Implement TurnStarted
-  - Implement TurnCompleted
-  - Implement Action Window for current player
-  - Implement Action Window for non-current player
+    - Implement TurnStarted
+    - Implement TurnCompleted
+    - Implement Action Window for current player
+    - Implement Action Window for non-current player
 3.  As a **Game Developer**, I need to leverage the Action Windows in this process to expose other systems to occur during the course of the phase
-  - Implement TurnAffected
+    - Implement TurnAffected
 4.  As **Developer**, I need access to the documentation around the snowflake technique and how it was used to design the project.
-  - Include Snowflake documentation 
+    - Include Snowflake documentation 
 5.  As a **Contributor** I have ample documentation for adding insight and providing guidance from a technological and use-case perspective.
-  - Add licensing to the project
+    - Add licensing to the project
