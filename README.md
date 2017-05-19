@@ -23,7 +23,7 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
   - Sets up Action windows for the current player.
   - Sets up Action windows for the non-current player.
 - Allow events to exist as "hooks" for other processes to be invoked.
-  -| Based on events, enable ways to interconnect mutliple action windows and/or other systems.
+  - Based on events, enable ways to interconnect mutliple action windows and/or other systems.
 - Provides a drop-in process for Erlang game systems that want to leverage turn-based interactions between players.
 - Builds a template to follow for using the Snowflake technique
 
