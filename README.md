@@ -47,6 +47,7 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 2.  As a **Game Designer**, I need to use the Turn logic in this process to augment my game design.
     - Implement TurnStarted
     - Implement TurnCompleted
+    - Implement Phase
     - Implement Action Window for current player
     - Implement Action Window for non-current player
 3.  As a **Game Developer**, I need to leverage the Action Windows in this process to expose other systems to occur during the course of the phase
