@@ -55,4 +55,4 @@ Many times a project is abadoned in the concept phase.  Possibly due to lack of 
 4.  As **Developer**, I need access to the documentation around the snowflake technique and how it was used to design the project.
     - Include Snowflake documentation 
 5.  As a **Contributor** I have ample documentation for adding insight and providing guidance from a technological and use-case perspective.
-    - Add licensing to the project
+    ~~- Add licensing to the project~~
