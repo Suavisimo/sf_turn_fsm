@@ -14,7 +14,8 @@ For many, playing games is fun only when playing with others.  Whether that mean
 Out of the box, Erlang provides all the tools required to build a living, distributed system.  Systems built in Erlang can be composed to create suites of interchangable rules, a platform upon which to experiment with mechanics and aestetics, and emergent and unique gameplay experiences.
 
 #### Why Snowflake?
-Many times a project is abadoned in the concept phase.  Possibly due to lack of motivation, possibly due to lack of fleshing out the concept.  The attempt to use Snowflake is to at minimum provide a way to document the thought process behind the project, in hopes that worse case (abandonment), it is carried on by those who share similar views. 
+Many times a project is abadoned in the concept phase.  Possibly due to lack of motivation, possibly due to lack of fleshing out the concept.  The attempt to use Snowflake is to at minimum provide a way to document the thought process behind the project, in hopes that worse case (abandonment), it is carried on by those who share similar views.
+
 (See: http://katafrakt.me/2017/04/29/snowflake-method-for-software-projects/)
 
 
