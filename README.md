@@ -1,4 +1,4 @@
-# sf_turn_statem
+# Summary
 A state machine for the cycle of a multiplayer turn-based game, implemented in Erlang. (15)
 
 
